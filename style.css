@@ -19,12 +19,13 @@ body{
 .namecolor{
     color: salmon;
 }
-.button{padding: 10px 30px;
+.button{
+    padding: 10px 30px;
     background-image: linear-gradient(45deg,salmon,orange);
     border-radius: 8px;
     color:white ;
     text-decoration: none;
-   font-size: 20px;
+    font-size: 20px;
    
 
 }
@@ -33,11 +34,11 @@ p{
     width: 500px;
 }
 .onethird img{
- width: 100%;
+     width: 100%;
 
 }
 section{
-   height: 700px;
+    height: 700px;
     overflow: hidden;
     width: 100%;
 }
@@ -67,7 +68,7 @@ section{
     margin-left: 3%;
     border-radius: 10px;
     text-emphasis: none;
-   margin-right: 2px;
+    margin-right: 2px;
 
     
 }
@@ -78,21 +79,17 @@ section{
 .downpart{
     background-image: url("shapes/Group_33094_1.png");
     position: absolute;
-width: 906px;
-height: 225px;
-left: 267px;
-top: 2116px;
-margin-top: 25px;
-padding-top: 80px;
-padding-left: 40px;
-font-size: 30px;
-color: honeydew;
-
-
-/* Linear */
-
-background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
-border-radius: 30px;
+    width: 906px;
+    height: 225px;
+    left: 267px;
+    top: 2116px;
+    margin-top: 25px;
+    padding-top: 80px;
+    padding-left: 40px;
+    font-size: 30px;
+    color: honeydew;
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    border-radius: 30px;
 }
 .downpart1{
     margin-left: 600px;
@@ -100,7 +97,7 @@ border-radius: 30px;
 #lastbutton{
     padding: 20px 20px 20px 20px;
     font-size: 30px;
-   margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 .last{
     height: 400px;
@@ -113,7 +110,7 @@ border-radius: 30px;
 .opinion{
     height: 400px;
     text-align: center;
-   background-image: linear-gradient(45deg,orange,salmon);
+    background-image: linear-gradient(45deg,orange,salmon);
 }
 .extra{
     margin-top: 20px;
