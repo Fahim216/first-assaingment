@@ -7,13 +7,11 @@ body{
     margin-left: 3%;
     float: left;
     width: 40%;
-    margin-top: 3%;
     height: 20%;
   
 }
-img{
-    width: 80%;
-    height: 80%;
+.half img{
+   width: 100%;
 }
 .font{
     font-size: 50px;
@@ -33,4 +31,101 @@ img{
 p{
     text-align: justify;
     width: 500px;
+}
+.onethird img{
+ width: 100%;
+
+}
+section{
+   height: 700px;
+    overflow: hidden;
+    width: 100%;
+}
+}
+.third{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.card{
+    height: 700px;
+    background-color: #F8F9FC ;
+    padding-top: 20px;
+    margin-left: 20px;
+    text-align: center;
+    width: 100%;
+    
+
+}
+.onethird{
+    float: left;
+    width: 30%;
+    height:60%;
+    overflow: hidden;
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+    margin-left: 3%;
+    border-radius: 10px;
+    text-emphasis: none;
+   margin-right: 2px;
+
+    
+}
+.color03{
+    color: #F46060;
+    font-size: 50px;
+}
+.downpart{
+    background-image: url("shapes/Group_33094_1.png");
+    position: absolute;
+width: 906px;
+height: 225px;
+left: 267px;
+top: 2116px;
+margin-top: 25px;
+padding-top: 80px;
+padding-left: 40px;
+font-size: 30px;
+color: honeydew;
+
+
+/* Linear */
+
+background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+border-radius: 30px;
+}
+.downpart1{
+    margin-left: 600px;
+}
+#lastbutton{
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+   margin-bottom: 60px;
+}
+.last{
+    height: 400px;
+}
+.form{
+    height: 200px;
+    width: 400px;
+  
+}
+.opinion{
+    height: 400px;
+    text-align: center;
+   background-image: linear-gradient(45deg,orange,salmon);
+}
+.extra{
+    margin-top: 20px;
+    height: 400px;
+}
+#submit{
+    color: black;
+}
+.copyright{
+   text-align: center;
+   overflow: hidden;
+   padding-left: 400px;
+   font-size: 10px;
+    
 }
